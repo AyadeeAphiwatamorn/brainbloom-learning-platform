@@ -27,9 +27,6 @@ This project follows a **design-to-development workflow**, where all visual and 
 The entire platform — including **UI/UX, logo, and branding** — was designed from scratch in Figma before development.
 Design files and prototype are available in the `/figma` folder.
 
-## Screenshots
-(Add images from the `/screenshots` folder here)
-
 ## Status
 Frontend implementation (UI-focused project)
 
